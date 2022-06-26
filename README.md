@@ -1,3 +1,5 @@
+I started this project to learn how to use react a little, It was a good experience!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
